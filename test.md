@@ -1,2 +1,0 @@
-#hello
-se MARI
