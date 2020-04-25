@@ -8,5 +8,4 @@
 
 * Процессоры Opteron, начиная с семейства 0x10 Barcelona, и процессоры Phenom II поддерживают второе поколение аппаратной виртуализации технология под названием Rapid Virtualization Indexing (ранее известная как Nested Page Tables во время его разработки), позже адаптированные Intel, как Extended Page Tables (EPT).
 
-
 <!-- _footer: Аппаратная виртуализация [Электронный ресурс]. URL: https://ru.wikipedia.org/wiki/Аппаратная_виртуализация#AMD_virtualization_ (дата обращения :14.04.2020)-->
