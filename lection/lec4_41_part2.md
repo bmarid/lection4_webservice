@@ -8,3 +8,5 @@
 * Azure
 * Google Cloud
 * Digital Ocean
+
+<!-- _footer: Виртуализация [Электронный ресурс]. URL: https://ru.wikipedia.org/wiki/Виртуализация (дата обращения: 14.04.2020)-->
